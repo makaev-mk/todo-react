@@ -16,3 +16,7 @@ code {
   display: flex;
   justify-content: space-between;
 }
+
+nav {
+  border-radius: 0 0 10px 10px;
+}
