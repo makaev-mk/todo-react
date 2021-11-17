@@ -15,8 +15,16 @@ code {
 .todo-item {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 nav {
   border-radius: 0 0 10px 10px;
+}
+.card-body {
+  display: flex;
+  align-items: center;
+}
+.star svg{
+  width: 24px;
 }
